@@ -16,7 +16,7 @@ UCSF: avi.samelson
 bsky: "samelsonlab.bsky.social"
 github: samelsonlab
 orcid: 0000-0003-3468-6971
-description: "Avi is originally from Berkeley, CA. He was an undergraduate at Northwestern University. During the summers he worked in the lab of [Dr. Tom Alber](http://fraserlab.com/2014/04/04/Tom-Alber/) with [Dr. James Fraser](https://fraserlab.com/) to study how to [access protein conformational ensembles using room temperature x-ray crystallography] (/publications#21918110).
+description: "Avi is originally from Berkeley, CA. He was an undergraduate at Northwestern University. During the summers he worked in the lab of [Dr. Tom Alber](http://fraserlab.com/2014/04/04/Tom-Alber/) with [Dr. James Fraser](https://fraserlab.com/) to study how to [access protein conformational ensembles using room temperature x-ray crystallography](https://pubmed.ncbi.nlm.nih.gov/21918110/).
 
 
 He began graduate school in 2011 to do his Ph.D. in the Department of [Molecular and Cellular Biology at UC Berkeley](http://mcb.berkeley.edu). There, he worked with  [Dr. Susan Marqusee](https://zebra.berkeley.edu/) and created new methods to characterize the [thermodynamics](https://pubmed.ncbi.nlm.nih.gov/27821780/), [kinetics](https://pubmed.ncbi.nlm.nih.gov/32527724/), and [folding trajectories](https://pubmed.ncbi.nlm.nih.gov/29854950/) of ribosome nascent chains.
