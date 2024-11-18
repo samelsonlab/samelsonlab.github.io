@@ -1,19 +1,19 @@
 ---
-title: Fraser Lab
+title: Samelson Lab
 layout: home
 group: home
 ---
 
-# Welcome to the Fraser Lab!
+# Welcome to the Samelson Lab!
 {: .display-4}
 <br>
-We are part of the [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu/), the [Macromolecular Structure Group](http://msg.ucsf.edu/), and the [California Institute of Quantitative Biosciences (QB3)](http://qb3.org/).
+We are part of the [Department of Neurology](https://www.uclahealth.org/departments/neurology) with a secondary affiliation with the [Department of Biological Chemistry](https://biolchem.ucla.edu/). The lab will be opening in January 2025
 {: .welcomefont}
 
 ![Fraser lab logo](static/img/logo/jf_retreat_logo.svg){:style="max-width: 100%; height: auto;"}
 
-Research in the lab is focused on discovering the fundamental principles of macromolecular structure and dynamics.  We are interested in defining conformational states that are essential for function and understanding how conformational transitions couple to biological mechanisms.
+The mission of the Samelson lab is to provide a welcoming, inclusive, rigorous, and transparent environment for research and training. We want our lab members to feel the joy of scientific discovery and reach their full potential.
 {: .welcomefont}
 
-We are located in Genentech Hall at the Mission Bay Campus of UCSF.
+We study protein aggregation. Aggregation is a hallmark of many diseases, especially common neurodegenerative diseases such as Alzheimer’s and Parkinson’s diseases.  The Samelson lab focuses on characterizing the conformational states a protein populates en route to its final aggregate state— a protein’s aggregation trajectory— and how cells control that trajectory. How do specific cellular gene expression programs decide a protein’s conformational fate? We combine biophysical characterization of key processes that control protein misfolding with systems-level approaches (like CRISPR-screening) to answer these questions.
 {: .welcomefont}
