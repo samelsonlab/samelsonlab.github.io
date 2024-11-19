@@ -1,6 +1,6 @@
 ---
 title: Research in the Samelson Lab
-layout: default
+layout: parallax
 group: research
 banner: /static/img/Research/ResearchBanner.jpeg
 ---
