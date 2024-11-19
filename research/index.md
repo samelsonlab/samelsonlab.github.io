@@ -1,7 +1,7 @@
 ---
 title: Research in the Samelson Lab
-layout: has_image
-group: default
+layout: default
+group: research
 ---
 
 <div class="row">
