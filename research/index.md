@@ -1,8 +1,7 @@
 ---
-title:
-layout: parallax_lead
+title: Research in the Samelson Lab
+layout: default
 group: research
-banner: /static/img/Research/ResearchBanner.jpeg
 ---
 
 <div class="row">
