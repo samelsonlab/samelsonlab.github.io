@@ -24,7 +24,6 @@ group: contact
   <h4>Avi Samelson, Ph.D.</h4>
   Assistant Professor<br>
   [Department of Neurology](https://www.uclahealth.org/departments/neurology)<br>
-  <br>
   Macdonald Research Laboratires 5-768<br>
   675 Charles E. Young Drive South<br>
   Los Angeles, CA 90024<br>

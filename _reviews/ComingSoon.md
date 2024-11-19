@@ -6,7 +6,7 @@ reviewers: "Samelson Lab"
 image: "/static/img/reviews/biorxiv.png"
 
 peer-review:
-- biorxiv_version: ""
+- biorxiv_version: "1"
   disqus: ""
 
 published:

@@ -1,7 +1,7 @@
 ---
 title: "Publications coming soon!"
 authors: "Samelson Lab"
-journal: ""
+journal: "Your favorite journal"
 pub_date: ""
 image: ""
 pmid: ""
