@@ -3,9 +3,9 @@ title: Samelson Lab
 layout: home
 group: home
 ---
-
+{: .display-4}
 # Welcome to the Samelson Lab! <br>
-# We are [hiring](/join)!
+# We are [hiring](/join)!<br>
 {: .display-4}
 <br>
 
