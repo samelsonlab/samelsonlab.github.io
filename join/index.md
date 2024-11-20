@@ -12,7 +12,7 @@ We are always in the market for motivated and talented people, even if we do not
 
 Currently we are hiring at **all positions!!**
 
-Live postings:
-[SRA2](https://uclahealth.avature.net/careers/JobDetail/Staff-Research-Associate-II-Neurology/20693)
-[Postdoc](https://recruit.apo.ucla.edu/JPF09966)
+Live postings: <br>
+[SRA2](https://uclahealth.avature.net/careers/JobDetail/Staff-Research-Associate-II-Neurology/20693) <br>
+[Postdoc](https://recruit.apo.ucla.edu/JPF09966) <br>
 
