@@ -11,3 +11,7 @@ Our lab welcomes applicants from any race, ethnicity, religion, national origin,
 We are always in the market for motivated and talented people, even if we do not have an open position currently advertised. We are interested in engaging with you in a conversation about your scientific background and goals for your future career (in academia, industry, or other ventures). We strive to provide excellent training across a wide range of computational and experimental techniques. If interested please send your CV/Resume to [Dr. Avi Samelson](/contact).
 
 Currently we are hiring at **all positions!!**
+
+Live postings:
+[SRA2](https://uclahealth.avature.net/careers/JobDetail/Staff-Research-Associate-II-Neurology/20693)
+
