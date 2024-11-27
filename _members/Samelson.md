@@ -10,7 +10,7 @@ pronouns: he/him/his
 email: avi.samelson (at) ucsf.edu
 scholar: BsmDQjoAAAAJ
 #website:
-UCSF: avi.samelson
+UCLA: avi.samelson
 #twitter: 
 #linkedin: 
 bsky: "samelsonlab.bsky.social"
