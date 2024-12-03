@@ -1,5 +1,5 @@
 ---
-title: Fraser Lab Compact, Philosophy, and Resources
+title: Samelson Lab Compact, Philosophy, and Resources
 layout: default
 group: philosophy
 ---
