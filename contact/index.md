@@ -13,7 +13,7 @@ group: contact
 
   <h4>Lab Area </h4>
   [Department of Neurology](https://www.uclahealth.org/departments/neurology)<br>
-  Macdonald Research Laboratires 5-619<br>
+  Macdonald Research Laboratories 5-619<br>
   675 Charles E. Young Drive South<br>
   Los Angeles, CA 90024<br>
 
@@ -24,7 +24,7 @@ group: contact
   <h4>Avi Samelson, Ph.D.</h4>
   Assistant Professor<br>
   [Department of Neurology](https://www.uclahealth.org/departments/neurology)<br>
-  Macdonald Research Laboratires 5-768<br>
+  Macdonald Research Laboratories 5-768<br>
   675 Charles E. Young Drive South<br>
   Los Angeles, CA 90024<br>
   email: avi.samelson (at) ucsf.edu <br>
