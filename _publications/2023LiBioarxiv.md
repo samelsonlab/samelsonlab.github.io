@@ -1,7 +1,7 @@
 ---
 title: "CRISPRi-based screens in iAssembloids to elucidate neuron-glia interactions."
 authors: "Li E, Benitez C, Boggess SC, Koontz M, Rose IVL, Martinez D, Draeger N, Teter OM, **Samelson AJ**, Pierce N, Ullian EM, Kampmann M."
-journal: 'Cell'
+journal: 'Neuron'
 pub_date: '2025-01-14'
 image: '/static/img/pub/2023_Li.jpg'
 pmid: '37163077'
