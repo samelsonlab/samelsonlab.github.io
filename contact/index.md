@@ -27,6 +27,6 @@ group: contact
   Mcdonald Research Laboratories 5-768<br>
   675 Charles E. Young Drive South<br>
   Los Angeles, CA 90095<br>
-  email: avi.samelson (at) ucsf.edu <br>
+  email: asamelson (at) ucla.edu <br>
 
 </div>
