@@ -10,6 +10,18 @@ Our lab welcomes applicants from any race, ethnicity, religion, national origin,
 
 We are always in the market for motivated and talented people, even if we do not have an open position currently advertised. We are interested in engaging with you in a conversation about your scientific background and goals for your future career (in academia, industry, or other ventures). We strive to provide excellent training across a wide range of computational and experimental techniques. If interested please send your CV/Resume to [Dr. Avi Samelson](/contact).
 
+## Graduate Students
+
+At UCLA, students can apply to a single [graduate program]([https://graduate.ucsf.edu/programs](https://grad.ucla.edu/) and do not apply directly to labs. The landscape of life science PhD programs and their admissions processes can be incredibly opaque, so Hersh Bhargava and Jaime Fraser wrote a [guide on Applying to Quantitative Biology PhD Programs](https://hershbhargava.com/writing/applying-to-phd-programs/) that has some good information. 
+
+##### The Samelson Lab participates in the following UCLA graduate programs:
+  * **[Neuroscience](https://neuroscience.ucla.edu/)**: The UCLA Neuroscience Interdepartmental Program (NSIDP) strives to give its students the necessary tools and perspectives to become leaders in Neuroscience related disciplines. NSIDP succeeds through a didactic curriculum, individualized advising and strong focus on career development. The major focus of the program is on neuroscience related biomedical research at the basic and translational level.
+  * **[Molecular Biology Interdepartmental Doctoral Program](https://www.mbi.ucla.edu/mbidp)**: The Molecular Biology Interdepartmental Doctoral Program (MDIDP) provides cutting-edge education and hands-on training in Molecular Regulatory Mechanisms that are shared across organisms and are common within a broad range of disciplines. The philosophy of the program stands on the concept that depth within a specialty and interdisciplinary breadth are critical to shape the minds of the future generations of scientific leaders and develop independent thinkers. Depth is provided through four “intellectual hubs,” our home areas shown below..
+
+## Postdoctoral Fellows
+
+Inquiries about Postdoctoral positions should be emailed directly to [Dr. Avi Samelson](/contact). We set our postdoctoral fellow compensation to the [Stanford rates](https://postdocs.stanford.edu/funding-levels-and-guidelines) **and** encourage candidates to explore applying for extramural fellowships to support their research.
+
 Currently we are hiring at **all positions!!**
 
 Live postings: <br>
