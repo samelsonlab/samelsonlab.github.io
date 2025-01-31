@@ -10,6 +10,11 @@ Our lab welcomes applicants from any race, ethnicity, religion, national origin,
 
 We are always in the market for motivated and talented people, even if we do not have an open position currently advertised. We are interested in engaging with you in a conversation about your scientific background and goals for your future career (in academia, industry, or other ventures). We strive to provide excellent training across a wide range of computational and experimental techniques. If interested please send your CV/Resume to [Dr. Avi Samelson](/contact).
 
+##### Currently we are hiring at **all positions!!**
+##### Here are our live postings: <br>
+[Postdoc](https://recruit.apo.ucla.edu/JPF10069)
+
+
 ## Graduate Students
 
 At UCLA, students can apply to a single [graduate program](https://grad.ucla.edu/) and do not apply directly to labs. The landscape of life science PhD programs and their admissions processes can be incredibly opaque, so Hersh Bhargava and Jaime Fraser wrote a [guide on Applying to Quantitative Biology PhD Programs](https://hershbhargava.com/writing/applying-to-phd-programs/) that has some good information. 
@@ -23,8 +28,9 @@ At UCLA, students can apply to a single [graduate program](https://grad.ucla.edu
 
 Inquiries about Postdoctoral positions should be emailed directly to [Dr. Avi Samelson](/contact). We set our postdoctoral fellow compensation to the [Stanford rates](https://postdocs.stanford.edu/funding-levels-and-guidelines) **and** encourage candidates to explore applying for extramural fellowships to support their research.
 
-Currently we are hiring at **all positions!!**
+## Undergraduate Students
 
-Live postings: <br>
-[Postdoc](https://recruit.apo.ucla.edu/JPF10069) <br>
+We currently have room for 1-2 undergraduate students. Students are expected to commit to working at least 10 hours a week.  If interested, please send your CV/Resume and a short paragraph about why you want to join the lab to [Dr. Avi Samelson](/contact).
+
+
 
