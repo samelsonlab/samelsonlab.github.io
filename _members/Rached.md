@@ -12,7 +12,7 @@ email: srached (at) mednet.ucla.edu
 #website:
 #UCLA: 
 #twitter: 
-linkedin: sandra-rached
+linkedin: sandra-rached-77708229a
 #bsky: 
 #github: 
 orcid: 0009-0001-5778-6927
