@@ -14,7 +14,7 @@ UCLA: avi.samelson
 #twitter: 
 #linkedin: 
 bsky: "samelsonlab.bsky.social"
-github: samelsonlab
+github: asamelson
 orcid: 0000-0003-3468-6971
 Description: "Avi is originally from Berkeley, CA. He was an undergraduate at Northwestern University. During the summers he worked in the lab of [Dr. Tom Alber](http://fraserlab.com/2014/04/04/Tom-Alber/) with [Dr. James Fraser](https://fraserlab.com/) to study how to [access protein conformational ensembles using room temperature x-ray crystallography](https://pubmed.ncbi.nlm.nih.gov/21918110/).
 
