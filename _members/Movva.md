@@ -3,7 +3,7 @@ name: Manasi Movva
 startdate: [2025-02-03]
 enddate: []
 image: /static/img/members/Movva.jpg
-altimage: /static/img/members/Movva_alt.jpg
+#altimage: /static/img/members/Movva_alt.jpg
 position: Graduate Student 
 #current:
 pronouns: she/her/hers
