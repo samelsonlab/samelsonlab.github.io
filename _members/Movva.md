@@ -1,6 +1,6 @@
 ---
 name: Manasi Movva
-startdate: [2025-02-03]
+startdate: [2025-03-031]
 enddate: []
 image: /static/img/members/Movva.jpeg
 altimage: /static/img/members/Movva_alt.jpeg
