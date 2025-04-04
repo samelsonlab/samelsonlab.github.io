@@ -3,12 +3,12 @@ name: Manasi Movva
 startdate: [2025-03-031]
 enddate: []
 image: /static/img/members/Movva.jpeg
-#altimage: /static/img/members/Movva_alt.jpeg
+altimage: /static/img/members/Movva_alt.jpeg
 position: Rotation Student 
 #current:
 pronouns: she/her/hers
 email: manasimovva (at) mednet.ucla.edu
-scholar: https://scholar.google.com/citations?hl=en&user=FQylRucAAAAJ
+scholar: FQylRucAAAAJ
 #website:
 #UCLA: 
 #twitter: 
