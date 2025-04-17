@@ -1,6 +1,6 @@
 ---
 name: Victoria Turnbill
-#startdate: [2025-02-03]
+startdate: [2025-04-14]
 #enddate: []
 image: /static/img/members/Turnbill.jpg
 #altimage: /static/img/members/Fraser_pb.jpg
