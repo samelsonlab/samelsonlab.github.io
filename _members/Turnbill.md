@@ -4,7 +4,7 @@ name: Victoria Turnbill
 #enddate: []
 image: /static/img/members/Turnbill.jpg
 #altimage: /static/img/members/Fraser_pb.jpg
-position: Graduate Student
+position: Graduate Student 
 #current:
 pronouns: she/her/hers
 email: vturnbill (at) g.ucla.edu
