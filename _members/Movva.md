@@ -7,7 +7,7 @@ altimage: /static/img/members/Movva_alt.jpeg
 position: Rotation Student 
 #current:
 pronouns: she/her/hers
-email: manasimovva (at) mednet.ucla.edu
+email: manasimovva (at) g.ucla.edu
 scholar: FQylRucAAAAJ
 #website:
 #UCLA: 
