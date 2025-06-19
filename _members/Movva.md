@@ -4,7 +4,7 @@ startdate: [2025-03-31]
 enddate: []
 image: /static/img/members/Movva.jpeg
 altimage: /static/img/members/Movva_alt.jpeg
-position: Rotation Student 
+position: Graduate Student
 #current:
 pronouns: she/her/hers
 email: manasimovva (at) g.ucla.edu
