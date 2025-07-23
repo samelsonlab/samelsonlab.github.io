@@ -1,6 +1,6 @@
 ---
 name: Shraddha KC
-#startdate: [2025-07-14]
+startdate: [2025-07-14]
 enddate: []
 image: /static/img/members/KC.jpg
 #altimage: /static/img/members/
