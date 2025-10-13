@@ -27,7 +27,7 @@ Inquiries about Postdoctoral positions should be emailed directly to [Dr. Avi Sa
 
 ## Undergraduate Students
 
-We currently have room for 1-2 undergraduate students. Students are expected to commit to working at least 10 hours a week.  If interested, please send your CV/Resume and a short paragraph about why you want to join the lab to [Dr. Avi Samelson](/contact).
+We currently do not have plans to add any more undergraduate students to the lab. But we are always looking for motivated and talented people, so feel free to send your CV/Resume and a short paragraph (it is easy to tell when your paragraph has been assisted by ChatGPT!) about why you want to join the lab to [Dr. Avi Samelson](/contact).
 
 
 
