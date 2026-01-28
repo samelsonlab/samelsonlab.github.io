@@ -7,4 +7,5 @@ image: '/static/img/pub/2024_Parra.jpg'
 pmid: '38582079'
 pmcid: 'PMC11365117'
 biorxiv_version: "2023.06.19.544278v1"
+pdf: 'https://www.cell.com/cell/pdf/S0092-8674(24)00306-4.pdf'
 ---
