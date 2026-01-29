@@ -7,4 +7,5 @@ image: '/static/img/pub/2022_Samelson.jpg'
 pmid: '35027731'
 pmcid: 'PMC8820466 '
 biorxiv_version: "2021.01.19.427194v2"
+pdf: 'https://www.nature.com/articles/s41556-021-00821-8'
 ---
