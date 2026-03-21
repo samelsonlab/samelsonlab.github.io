@@ -4,8 +4,8 @@ authors: "**Samelson AJ**, Ariqat N, McKetney J, Rohanitazangi G, Bravo CP, Bose
 journal: 'Cell'
 pub_date: '2026-01-28'
 image: '/static/img/pub/2026Samelson.jpg'
-pmid: '37398204'
-pmcid: 'PMC10312804'
+pmid: '41610849'
+pmcid: 'PMC12978015'
 biorxiv_version: "2023.06.16.545386v5"
 pdf: 'https://www.cell.com/action/showPdf?pii=S0092-8674%2825%2901487-4'
 ---
