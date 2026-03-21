@@ -4,7 +4,7 @@ layout: home
 group: home
 ---
 {: .display-4}
-# Welcome to the Samelson Lab! <br>
+# Welcome to the Samelson Lab @ [UCLA](https://www.ucla.edu/)! <br>
 {: .display-4}
 <br>
 
