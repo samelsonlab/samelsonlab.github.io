@@ -9,7 +9,7 @@ Protein aggregation diseases, including Alzheimer's Disease and Type 2 Diabetes,
 
 Our goal is to design research projects that change the way we think about those problems, and provide a unique lens to long-standing research questions. We value collaboration, innovation, and working from first principles.   
 
-<img class="img-fluid" src="/static/img/Research/ResearchBanner.png" title="Research in the Samelson lab" alt="Four pictures. From left to right: iPSC-derived neurons stained with an antibody against tau and BIII-tubulin, CRISPR screen volcano plot, tau fibrils, PS19 mouse brain stained for CUL5 and AT8">
+<img class="img-fluid" src="/static/img/Research/ResearchBanner.png" title="Research in the Samelson lab" alt="Four pictures. From left to right: iPSC-derived neurons stained with an antibody against tau and BIII-tubulin, CRISPR screen volcano plot, tau fibrils, PS19 mouse brain stained for CUL5 and AT8" width="100%">
 
 
 ### <ins>Cell-type specific regulation of the ubiquitin/proteasome system (UPS)</ins>
