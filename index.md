@@ -11,7 +11,7 @@ group: home
 ![Fraser lab logo](/static/img/NeuronFun.jpeg){:style="max-width: 100%; height: auto;"}
 
 {: .welcomefont}
-The long-term goal of our research is to understand how proteins aggregatate and how vulnerable cell types control aggregation.
+The long-term goal of our research is to understand how proteins aggregate and how cells vulnerable to protein aggregation diseases control the aggregation process.
 
 We are part of the [UCLA](https://www.ucla.edu/) [David Geffen School of Medicine](https://medschool.ucla.edu/) [Department of Neurology](https://www.uclahealth.org/departments/neurology) with a secondary affiliation in the [Department of Biological Chemistry](https://biolchem.ucla.edu/). We are also affiliated with the [UCLA Molecular Biology Institute](https://www.mbi.ucla.edu/), [Brain Research Institute](https://bri.ucla.edu/) and the [Broad Stem Cell Research Center](https://stemcell.ucla.edu/).<br>
 {: .welcomefont}
