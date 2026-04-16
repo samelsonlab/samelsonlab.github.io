@@ -1,6 +1,6 @@
 ---
 name: Zach Casey
-startdate: [2025-03-30]
+startdate: [2026-03-30]
 enddate: []
 image: /static/img/members/Casey.jpg
 altimage: /static/img/members/Casey_alt.jpg
