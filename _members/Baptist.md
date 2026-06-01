@@ -1,6 +1,6 @@
 ---
 name: Brett Baptist
-startdate: [2026-01-05]
+startdate: [2026-05-27]
 enddate: []
 image: /static/img/members/Baptist.jpg
 #altimage: /static/img/members/
