@@ -4,7 +4,7 @@ startdate: [2026-03-30]
 enddate: []
 image: /static/img/members/Casey.jpg
 altimage: /static/img/members/Casey_alt.jpg
-position: Rotation Student
+position: Graduate Student
 #current:
 pronouns: he/him/his
 email: zocasey (at) g.ucla.edu
