@@ -7,5 +7,5 @@ image: '/static/img/pub/2024_Mohl.jpg'
 pmid: '42046563'
 pmcid: 'PMC13110130'
 biorxiv_version: '2024.06.04.597496v3'
-pdf:'/static/pdf/pub/2026Mohl.pdf'
+pdf: '/static/pdf/pub/2026Mohl.pdf'
 ---
