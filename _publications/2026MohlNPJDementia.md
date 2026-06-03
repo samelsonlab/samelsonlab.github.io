@@ -4,7 +4,8 @@ authors: "Mohl GA, Dixon G, Marzette E, McKetney J, **Samelson AJ**, Serras CP, 
 journal: 'npj Dementia'
 pub_date: '2026-04-26'
 image: '/static/img/pub/2024_Mohl.jpg'
-pmid: '38895329'
-pmcid: 'PMC11185762'
-biorxiv_version: "2024.06.04.597496v3"
+pmid: '42046563'
+pmcid: 'PMC13110130'
+biorxiv_version: '2024.06.04.597496v3'
+pdf:'/static/pdf/pub/2026Mohl.pdf'
 ---
