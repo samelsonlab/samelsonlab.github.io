@@ -8,7 +8,7 @@ position: Rotation Student
 #current:
 pronouns: he/him/his
 email: zocasey (at) g.ucla.edu
-scholar: FQylRucAAAAJ
+scholar: t_Ynir0AAAAJ
 #website:
 #UCLA: 
 #twitter: 
