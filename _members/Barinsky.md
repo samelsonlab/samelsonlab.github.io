@@ -1,6 +1,6 @@
 ---
 name: Sasha Barinsky
-startdate: [2025-02-03]
+startdate: [2026-08-03]
 enddate: []
 image: /static/img/members/Barinsky.jpg
 altimage: /static/img/members/Barinsky_alt.jpg
