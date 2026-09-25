@@ -8,11 +8,11 @@ position: Rotation Student
 #current:
 pronouns: she/her
 email: zoeheidersbach (at) ucla.edu
-scholar:  [Zoe's Google Scholar](https://scholar.google.com/citations?hl=en&amp;user=Yepa_L8AAAAJ)
+scholar:  "[Zoe's Google Scholar](https://scholar.google.com/citations?hl=en&amp;user=Yepa_L8AAAAJ)"
 #website:
 #UCLA: 
 #twitter: 
-linkedin: [zoe-heidersbach](www.linkedin.com/in/zoe-heidersbach)
+linkedin: "[zoe-heidersbach](www.linkedin.com/in/zoe-heidersbach)"
 #bsky: 
 #github: 
 orcid: 0009-0009-7444-5217
