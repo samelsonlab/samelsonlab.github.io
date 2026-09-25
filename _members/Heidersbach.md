@@ -12,7 +12,7 @@ scholar:  "[Zoe's Google Scholar](https://scholar.google.com/citations?hl=en&amp
 #website:
 #UCLA: 
 #twitter: 
-linkedin: "[zoe-heidersbach](www.linkedin.com/in/zoe-heidersbach)"
+linkedin: zoe-heidersbach
 #bsky: 
 #github: 
 orcid: 0009-0009-7444-5217
