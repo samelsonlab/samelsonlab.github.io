@@ -6,7 +6,7 @@ image: /static/img/members/Heidersbach.jpg
 #altimage: /static/img/members/Barinsky_alt.jpg
 position: Rotation Student
 #current:
-pronouns: she/her
+pronouns: she/her/hers
 email: zoeheidersbach (at) ucla.edu
 scholar:  "[Zoe's Google Scholar](https://scholar.google.com/citations?hl=en&amp;user=Yepa_L8AAAAJ)"
 #website:
