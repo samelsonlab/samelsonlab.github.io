@@ -30,9 +30,14 @@
   id: "AI Policy"
   show: False
   body: >
-  	AI tools are powerful accelerators of specific tasks, especially coding and data analysis. Research at its heart is a creative pursuit, so tools that expand the reach of science and accelerate the pace of discovery are usually net positives. Research is also the pursuit of truth, and AI tools currently do not know the difference between truth and fiction and make things up all the time! The purpose of scientific training is to instill the ability to think, read, and write for yourself. The reason you are in my lab is to learn how to critically think and how to express those thoughts experimentally and in written and verbal forms. As of today (2026), there is overwhelming evidence that reliance on AI tools atrophies users’ abilities for critical thinking. Reading, writing, and creative planning should be done without the use of AI as a substitute for those tasks. Below are some guidelines for the use of AI in the lab: <br>
-	1.  Always validate any work AI has done for you.<br>
-	2.  For all data analysis and coding, you need to know what manipulations of the data/code the AI has done and why they work.<br>
-	3.  Avoid the use of AI for drafting scientific documents including fellowships applications, papers, etc… <br>
-	4.  Unless you are running locally you are disseminating your data/ideas/code to the company that hosts the AI you are using. <br>
-	5.  Generally, you should be familiar with the strengths and weaknesses of AI tools and how you can use them effectively in your research while maintaining your ability to think, read, and write for yourself. <br>
+      AI tools are powerful accelerators of specific tasks, especially coding and data analysis. Research at its heart is a creative pursuit, so tools that expand the reach of science and accelerate the pace of discovery are usually net positives. Research is also the pursuit of truth, and AI tools currently do not know the difference between truth and fiction and make things up all the time! The purpose of scientific training is to instill the ability to think, read, and write for yourself. The reason you are in my lab is to learn how to critically think and how to express those thoughts experimentally and in written and verbal forms. As of today (2026), there is overwhelming evidence that reliance on AI tools atrophies users’ abilities for critical thinking. Reading, writing, and creative planning should be done without the use of AI as a substitute for those tasks. Below are some guidelines for the use of AI in the lab: <br>
+      
+      1.  Always validate any work AI has done for you.<br>
+      
+      2.  For all data analysis and coding, you need to know what manipulations of the data/code the AI has done and why they work.<br>
+      
+      3.  Avoid the use of AI for drafting scientific documents including fellowships applications, papers, etc… <br>
+      
+      4.  Unless you are running locally you are disseminating your data/ideas/code to the company that hosts the AI you are using. <br>
+      
+      5.  Generally, you should be familiar with the strengths and weaknesses of AI tools and how you can use them effectively in your research while maintaining your ability to think, read, and write for yourself. <br>
