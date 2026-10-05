@@ -3,7 +3,7 @@ name: Zoe Heidersbach
 startdate: [2026-09-24]
 enddate: []
 image: /static/img/members/Heidersbach.jpg
-#altimage: /static/img/members/Barinsky_alt.jpg
+altimage: /static/img/members/Heidersbach_alt.jpg
 position: Rotation Student
 #current:
 pronouns: she/her/hers
