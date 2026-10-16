@@ -1,7 +1,7 @@
 ---
 name: Lily Balian
 startdate: [2026-10-01]
-enddate: []
+#enddate: []
 image: /static/img/members/Balian.jpg
 #altimage: /static/img/members/Barinsky_alt.jpg
 position: Undergraduate Student 
